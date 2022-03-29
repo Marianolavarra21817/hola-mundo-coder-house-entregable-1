@@ -1,0 +1,8 @@
+.cart {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    margin-right: 2%;
+    color: white;
+    
+}
